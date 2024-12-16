@@ -1,3 +1,4 @@
+# Học thêm https://docs.drone.io/pipeline/kubernetes/examples/language/golang/
 kind: pipeline
 type: kubernetes
 name: default
